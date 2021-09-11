@@ -21,5 +21,6 @@ public class Shrabon {
         Student1.display();
       
     }
+      boolean eta_bola_tik_hoyni = false;
     
 }
